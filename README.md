@@ -2,6 +2,7 @@
 
 [![Linkedin: lucascogrossi](https://img.shields.io/badge/-lucascogrossi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucascogrossi/)](https://www.linkedin.com/in/lucascogrossi/)
 [![GitHub lucascogrossi](https://img.shields.io/github/followers/lucascogrossi?label=follow&style=social)](https://www.github.com/lucascogrossi)
+![](https://img.shields.io/badge/-💻%20My%20Website-000)](https://lucascogrossi.github.io/)
 
 <p><em>Computer Science undergraduate @ <a href="http://www3.unicentro.br">Midwestern Parana State University</a>
 
