@@ -15,4 +15,5 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![CUDA](https://img.shields.io/badge/-CUDA-000?&logo=Nvidia)
+![OpenMP](https://img.shields.io/badge/-OpenMP-000)
 
