@@ -2,4 +2,4 @@
 
 [![Linkedin: lucascogrossi](https://img.shields.io/badge/-lucascogrossi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucascogrossi/)](https://www.linkedin.com/in/lucascogrossi/)
 
-<p><em>Computer Science undergrad @ Unicentro <a href="http://www3.unicentro.br">Midwestern Parana State University</a>
+<p><em>Computer Science undergraduate @ <a href="http://www3.unicentro.br">Midwestern Parana State University</a>
