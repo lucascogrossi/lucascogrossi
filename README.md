@@ -1,6 +1,6 @@
 <h2> Hi, I'm Lucas Cogrossi! </h2>
 
-<img src="black-background.gif" width=800 height=200>
+<img src="black-background.gif" width=900 height=200>
 
 
 
