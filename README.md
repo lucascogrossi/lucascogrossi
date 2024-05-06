@@ -19,9 +19,9 @@
 
 ### Technologies
 
+![nVIDIA](https://img.shields.io/badge/cuda-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/cuda-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 
