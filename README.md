@@ -4,7 +4,7 @@
 [![website](https://img.shields.io/badge/website-binformational)](https://lucascogrossi.github.io/)
 [![GitHub lucascogrossi](https://img.shields.io/github/followers/lucascogrossi?label=follow&style=social)](https://www.github.com/lucascogrossi)
 
-<p><em>Computer Science undergraduate @ <a href="http://www3.unicentro.br">Midwestern Parana State University</a>
+<p><em>Computer Science undergraduate @ <a href="http://www3.unicentro.br">Midwestern Parana State University</a> Currently 2nd year
 
 ### Languages
 
