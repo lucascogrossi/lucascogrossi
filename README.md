@@ -1,4 +1,4 @@
-<h2> Hi, I'm Lucas Cogrossi! </h2>
+<h2> Hi! </h2>
 
 [![Linkedin: lucascogrossi](https://img.shields.io/badge/-lucascogrossi-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucascogrossi/)](https://www.linkedin.com/in/lucascogrossi/)
 [![website](https://img.shields.io/badge/website-binformational)](https://lucascogrossi.github.io/)
