@@ -20,4 +20,4 @@
 ![Git](https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=red)
 ![LaTeX](https://img.shields.io/badge/latex-000000.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-000000.svg?style=for-the-badge&logo=cmake&logoColor=grey)
-
+![Postgres](https://img.shields.io/badge/postgres-000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
